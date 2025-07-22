@@ -47,13 +47,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurajSingh53&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurajSingh53&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
   <i>“Stay curious. Build cool stuff. Break things (gently).” 🛠️✨</i>
 </p>
