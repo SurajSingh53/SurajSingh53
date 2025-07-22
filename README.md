@@ -32,37 +32,6 @@
 
 ---
 
-### 💡 Top Projects
-
-| Project | Description |
-|--------|-------------|
-| [Legal Doc Simplifier](https://github.com/SurajSingh53/LegalDoc-Simplifier) | LLM-based app for simplifying & translating legal texts across Indian languages |
-| [Pneumonia Detector](https://github.com/SurajSingh53/Pneumonia-Detector) | CNN-powered X-ray diagnosis tool with Streamlit interface |
-| [Sentiment Analysis](https://github.com/SurajSingh53/Sentiment-Analyzer) | Emotion classifier trained on tweets and Reddit data |
-| [Influencer ROI Dashboard](https://github.com/SurajSingh53/Influencer-ROI-Dashboard) | Streamlit dashboard for HealthKart to track influencer campaigns |
-
----
-
-### 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/SurajSingh53/LegalDoc-Simplifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajSingh53&repo=LegalDoc-Simplifier&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/SurajSingh53/Influencer-ROI-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SurajSingh53&repo=Influencer-ROI-Dashboard&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### 📝 Latest Articles / Blogs
-
-- 🧠 [LegalTech AI and Why It Matters (Research Summary)](https://github.com/SurajSingh53/LegalDoc-Simplifier#readme)
-- 📈 [Measuring Campaign ROI with Python and Pandas](https://github.com/SurajSingh53/Influencer-ROI-Dashboard#readme)
-- 🛠️ *Coming Soon:* AI Tools I Built So You Don’t Have To™
-
----
 
 ### 🤝 Let’s Connect!
 
