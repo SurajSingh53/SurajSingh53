@@ -21,14 +21,19 @@
 
 ### 🧰 Tech Toolbox
 
-#### 🗣️ Languages:
 `Python` `Rust` `Java` `C++` `C` `JavaScript`
 
-#### 🧠 AI & ML:
-`NLP` `DNNs` `HuggingFace` `Scikit-learn` `TensorFlow` `ONNX`
+#### 🧠 AI/ML Skills:
+`NLP` `Deep Neural Networks` `HuggingFace Transformers` `ONNX` `Scikit-learn` `Data Visualization`
 
-#### 🛠️ Tools:
-`Streamlit` `OpenCV` `PostgreSQL` `MySQL` `AWS` `VS Code` `Git`
+#### 🧱 Backend & Dev:
+`Flask` `FastAPI` `Node.js` `PostgreSQL` `MySQL` `MongoDB` `REST APIs` `Authentication`
+
+#### 🧪 Tools & Platforms:
+`Streamlit` `OpenCV` `Git` `Docker` `AWS` `VS Code` `GitHub Actions`
+
+#### 🌍 Web Stack:
+`HTML` `CSS` `JavaScript` `React (learning...)` `Bootstrap`
 
 ---
 
