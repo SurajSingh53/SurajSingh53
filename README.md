@@ -42,7 +42,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/suraj-singh-53b950233/)
 - 🧠 [GitHub](https://github.com/SurajSingh53)
-- ✉️ surajsinghshan53@gmail.com
+- ✉️ [Email](surajsinghshan53@gmail.com)
 
 ---
 
